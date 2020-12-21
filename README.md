@@ -1,2 +1,2 @@
 # LearnPython2020
-Code examples for the winter break class.
+Homework solutions for Intro to Python 3.
