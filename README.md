@@ -17,4 +17,8 @@ Don't forget to turn in!
 
 # Day 2 Homework
 
+TBD
+
 # Day 3 Homework
+
+TBD
