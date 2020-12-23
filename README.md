@@ -28,7 +28,19 @@ Don't forget to turn in!
 
 # Day 2 Homework
 
-TBD
+Create a Python file that:
+
+Creates a list a, containing the numbers 1 through 10 in order
+
+For every element in a, prints it out
+
+Creates a variable called b
+
+Increments b until it is at least 10
+
+For every element i of a, increment b by i, and exit the loop if b is at least 16
+
+Prints out b
 
 # Day 3 Homework
 
