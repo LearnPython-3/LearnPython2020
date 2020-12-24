@@ -22,6 +22,8 @@ Print out the value of the last item of lst
 
 Change the value of the first item of lst to 1
 
+Prompt the user for text input, and print out the inputted text
+
 Take a screenshot and attach it to this assignment
 
 Don't forget to turn in!
