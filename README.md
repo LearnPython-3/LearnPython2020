@@ -44,11 +44,33 @@ Prints out b
 
 # Day 3 Homework
 
-TBD
+Create a Python file that:
+
+Prompts the user for a number
+
+Since the input is a string, convert it into an integer
+
+Prompt the user for another number, and convert it into an integer
+
+Multiply the two numbers, and print the result
+
+Prompt the user for a string
+
+Print out the second through fifth characters in that string, inclusive
+
+Attach the file to this assignment, and turn it in
 
 # Day 4 Homework
 
-TBD
+Create a Python file defining a class that does the following:
+
+On initialization, prompts the user for input and stores is as the text property
+
+When an object of this class is printed, it will print out its text property backwards (use string[::-1] to reverse strings)
+
+When two objects of this class are multiplied, their text properties are concatenated
+
+And as always, attach the file and turn it in
 
 # Day 5 Homework
 
