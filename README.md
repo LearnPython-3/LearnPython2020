@@ -1,7 +1,7 @@
 # LearnPython2020
 Homework solutions for Intro to Python 3.
 
-# Day 1 Homework
+# [Day 1 Homework](https://github.com/LearnPython-3/LearnPython2020/blob/main/day1_sol.png)
 Open up the IDLE shell.
 
 Create a variable called foo, with a value of 1
