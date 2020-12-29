@@ -43,3 +43,21 @@ Increments b until it is at least 10
 For every element i of a, increment b by i, and exit the loop if b is at least 16
 
 Prints out b
+
+## Day 3 Homework
+
+Create a Python file that:
+
+Prompts the user for a number
+
+Since the input is a string, convert it into an integer
+
+Prompt the user for another number, and convert it into an integer
+
+Multiply the two numbers, and print the result
+
+Prompt the user for a string
+
+Print out the second through fifth characters in that string, inclusive
+
+Attach the file to this assignment, and turn it in
