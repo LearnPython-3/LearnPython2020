@@ -28,7 +28,7 @@ Take a screenshot and attach it to this assignment
 
 Don't forget to turn in!
 
-## Day 2 Homework
+## Day 2 Homework | [Link to Solution](https://github.com/LearnPython-3/LearnPython2020/blob/main/day2_sol.py)
 
 Create a Python file that:
 
