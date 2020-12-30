@@ -1,6 +1,0 @@
-number_one = input("Enter a number: ")
-number_one = int(number_one)
-number_two = int(input("Enter a number: "))
-print(number_one * number_two)
-string = input("Enter a string: ")
-print(string[1:6])
