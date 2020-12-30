@@ -44,7 +44,7 @@ For every element i of a, increment b by i, and exit the loop if b is at least 1
 
 Prints out b
 
-## Day 3 Homework
+## Day 3 Homework | [Link to Solution](https://github.com/LearnPython-3/LearnPython2020/blob/main/day3_sol.py)
 
 Create a Python file that:
 
@@ -61,3 +61,15 @@ Prompt the user for a string
 Print out the second through fifth characters in that string, inclusive
 
 Attach the file to this assignment, and turn it in
+
+## Day 4 Homework
+
+Create a Python file defining a class that does the following:
+
+On initialization, prompts the user for input and stores is as the text property
+
+When an object of this class is printed, it will print out its text property backwards (use string[::-1] to reverse strings)
+
+When two objects of this class are multiplied, their text properties are concatenated
+
+And as always, attach the file and turn it in
