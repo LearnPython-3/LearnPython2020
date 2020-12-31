@@ -74,6 +74,6 @@ When two objects of this class are multiplied, their text properties are concate
 
 And as always, attach the file and turn it in
 
-## Day 5 Homework
+## Day 5 Homework | [Link to Sample Project](https://github.com/LearnPython-3/LearnPython2020/blob/main/final_project_sample.py)
 
 NONE - Happy New Year's Eve, and find a time to do your final project!
