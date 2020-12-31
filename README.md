@@ -62,7 +62,7 @@ Print out the second through fifth characters in that string, inclusive
 
 Attach the file to this assignment, and turn it in
 
-## Day 4 Homework
+## Day 4 Homework | [Link to Solution](https://github.com/LearnPython-3/LearnPython2020/blob/main/day4_sol.py)
 
 Create a Python file defining a class that does the following:
 
