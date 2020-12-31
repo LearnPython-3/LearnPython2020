@@ -73,3 +73,7 @@ When an object of this class is printed, it will print out its text property bac
 When two objects of this class are multiplied, their text properties are concatenated
 
 And as always, attach the file and turn it in
+
+## Day 5 Homework
+
+NONE - Happy New Year's Eve, and find a time to do your final project!
