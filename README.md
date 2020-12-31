@@ -1,5 +1,5 @@
 # LearnPython2020
-Homework solutions for Intro to Python 3.
+Homework solutions for Intro to Python 3 (2020).
 
 ## Day 1 Homework | [Link to Solution](https://github.com/LearnPython-3/LearnPython2020/blob/main/day1_sol.png)
 Open up the IDLE shell.
