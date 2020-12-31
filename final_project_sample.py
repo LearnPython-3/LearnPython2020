@@ -1,3 +1,5 @@
+# Program that can be used to test numbers in the Collatz Conjecture
+
 number = int(input("Enter a number: "))
 steps = 0
 while number != 1:
